@@ -1,7 +1,6 @@
 # Louis Vuiton 쇼핑몰 웹사이트
 
 부트스트랩을 이용한 반응형 쇼핑몰 웹페이지를 구축.
-<https://replit.com/@yghjbm/LOUISVUTTON-Website>
 
 ### 개발 목표
 부트스트랩의 다양한 컴포넌트와 클래스 사용 및 부트스트랩 Grid 이해. 미디어쿼리를 이용한 반응형 웹페이지 구축
@@ -19,3 +18,5 @@
 
 ### 개선사항
 - 보류
+
+### 포트폴리오 웹사이트 링크:<<https://replit.com/@yghjbm/LOUISVUTTON-Website>>
