@@ -19,4 +19,4 @@
 ### 개선사항
 - 보류
 
-### 포트폴리오 웹사이트 링크: <https://replit.com/@yghjbm/LOUISVUTTON-Website>](https://nyoungno-louisvuttonwebsite.netlify.app/>
+### 포트폴리오 웹사이트 링크: <https://nyoungno-louisvuttonwebsite.netlify.app/>
