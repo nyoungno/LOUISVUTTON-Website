@@ -1,0 +1,44 @@
+.btn-outline-success {
+    color: chocolate;
+    border-color: chocolate;
+  }
+  .btn-outline-success:hover {
+    background-color: chocolate;
+    color : white;
+    border-color: chocolate;
+  }
+  body {
+    font-family: "Louis Vuitton Web", "Helvetica Neue", "Helvetica", Arial, sans-serif;
+  }
+  footer {
+    background: #19110b;
+    color: white;
+  }
+  .first-line {
+    color: white;
+    border-bottom: 1px solid #392d23;
+  }
+  .second-line a {
+    color: white;
+    text-decoration: none;
+  }
+  @media screen and (max-width: 48rem){
+    .first-line{
+      text-align: center;
+    }
+  }
+  @media screen and (max-width: 48rem){
+    .second-line{
+      padding-left: 2rem;
+      padding-right: 2rem;
+      border-bottom: 1px solid #392d23;
+    }
+  }
+  .third-line {
+    display: none;
+  }
+  @media screen and (max-width: 48rem){
+    .third-line{
+      display: block;
+    }
+  }
